@@ -1,0 +1,9 @@
+cerate .env file
+
+and sotre this
+SESSION_SECRET="TOPSECRETWORD"
+PG_USER="postgres"
+PG_HOST="localhost"
+PG_DATABASE="authentication"
+PG_PASSWORD="admin"
+PG_PORT="5432"
